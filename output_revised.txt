@@ -1,0 +1,4 @@
+
+testRectangleArea=true
+testTriangleArea=true
+testSquareArea=true
